@@ -1,0 +1,289 @@
+{
+  "id": "cards-and-masks",
+  "title": "Cards and Masks",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "croupier-actions",
+      "label": "Croupier - Actions",
+      "path": "packs/croupier-actions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "croupier-archetype-feats",
+      "label": "Croupier - Archetype Feats",
+      "path": "packs/croupier-archetype-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "croupier-class",
+      "label": "Croupier - Class",
+      "path": "packs/croupier-class",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "croupier-class-features",
+      "label": "Croupier - Class Features",
+      "path": "packs/croupier-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "croupier-effects",
+      "label": "Croupier - Effects",
+      "path": "packs/croupier-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "croupier-feats",
+      "label": "Croupier - Feats",
+      "path": "packs/croupier-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "croupier-journal",
+      "label": "Croupier - Journal",
+      "path": "packs/croupier-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+	{
+      "name": "croupier-spells",
+      "label": "Croupier - Spells",
+      "path": "packs/croupier-spells",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magic-warrior-class",
+      "label": "Magic Warrior - Class",
+      "path": "packs/magic-warrior-class",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magic-warrior-class-features",
+      "label": "Magic Warrior - Class Features",
+      "path": "packs/magic-warrior-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magic-warrior-feats",
+      "label": "Magic Warrior - Feats",
+      "path": "packs/magic-warrior-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magic-warrior-actions",
+      "label": "Magic Warrior - Actions",
+      "path": "packs/magic-warrior-actions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magic-warrior-effects",
+      "label": "Magic Warrior - Effects",
+      "path": "packs/magic-warrior-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magic-warrior-spells",
+      "label": "Magic Warrior - Spells",
+      "path": "packs/magic-warrior-spells",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magic-warrior-archetype-feats",
+      "label": "Magic Warrior - Archetype Feats",
+      "path": "packs/magic-warrior-archetype-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magic-warrior-journal",
+      "label": "Magic Warrior - Journal",
+      "path": "packs/magic-warrior-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "candm-conditions",
+      "label": "C&M Conditions",
+      "path": "packs/candm-conditions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Cards and Masks",
+      "sorting": "a",
+      "packs": ["candm-conditions"],
+      "folders": [
+        {
+          "name": "Magic Warrior",
+          "sorting": "a",
+          "color": "#32cd32",
+          "packs": [
+            "magic-warrior-actions",
+            "magic-warrior-archetype-feats",
+            "magic-warrior-class",
+            "magic-warrior-class-features",
+            "magic-warrior-effects",
+            "magic-warrior-feats",
+            "magic-warrior-journal",
+            "magic-warrior-spells"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Croupier",
+          "sorting": "a",
+          "color": "#daa520",
+          "packs": [
+            "croupier-actions",
+            "croupier-archetype-feats",
+            "croupier-class",
+            "croupier-class-features",
+            "croupier-effects",
+            "croupier-feats",
+            "croupier-journal",
+			"croupier-spells"
+          ],
+          "folders": []
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "cards-and-masks": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "discard": {
+            "label": "Discard",
+            "description": "Actions with the discard trait are actions that require the croupier to put one or multiple cards from their hand pile, or another pile if mentioned otherwise, into the discard pile."
+          },
+		  "draw": {
+            "label": "Draw",
+            "description": "Actions with the draw trait enable the croupier to get one or more cards from the top of the deck or other piles, or another part of the pile if mentioned otherwise, into their hand pile."
+          },
+          "croupier": {
+            "label": "Croupier",
+            "description": "Feats and features of the croupier class."
+          },
+          "magic-warrior-feats": {
+            "label": "Magic Warrior",
+            "description": "Feats and features of the magic warrior class."
+          }
+        },
+        "spellTraits": {
+          "magic-warrior-spells": {
+            "label": "Magic Warrior",
+            "description": "Spells of the magic warrior class."
+          },
+		  "croupier-spells": {
+            "label": "Croupier",
+            "description": "Spells of the croupier class."
+          }
+        }
+      }
+    }
+  },
+  "authors": [
+    {
+      "name": "Vasco Duarte"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  },
+  "url": "https://github.com/VascoRodriguesDuarte/cardsandmasks",
+  "manifest": "???",
+  "download": "???"
+}
