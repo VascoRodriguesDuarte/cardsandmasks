@@ -193,6 +193,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "magic-warrior-equipment",
+      "label": "Magic Warrior - Equipment",
+      "path": "packs/magic-warrior-equipment",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -211,6 +222,7 @@
             "magic-warrior-class",
             "magic-warrior-class-features",
             "magic-warrior-effects",
+			"magic-warrior-equipment",
             "magic-warrior-feats",
             "magic-warrior-journal",
             "magic-warrior-spells"
@@ -247,6 +259,10 @@
 		  "draw": {
             "label": "Draw",
             "description": "Actions with the draw trait enable the croupier to get one or more cards from the top of the deck or other piles, or another part of the pile if mentioned otherwise, into their hand pile."
+          },
+		  "attune": {
+            "label": "Attune",
+            "description": "Abilities with this trait can only be used or are only activated whenever you have 3 or more focus points."
           },
           "croupier": {
             "label": "Croupier",
