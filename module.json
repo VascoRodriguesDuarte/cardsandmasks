@@ -300,6 +300,6 @@
     ]
   },
   "url": "https://github.com/VascoRodriguesDuarte/cardsandmasks",
-  "manifest": "???",
-  "download": "???"
+  "manifest": "https://raw.githubusercontent.com/VascoRodriguesDuarte/cardsandmasks/master/module.json",
+  "download": "https://github.com/VascoRodriguesDuarte/cardsandmasks/archive/refs/heads/master.zip"
 }
